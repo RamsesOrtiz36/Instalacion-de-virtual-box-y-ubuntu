@@ -22,16 +22,17 @@ La maquina virtual del software de Virtual Box nos permite ejecutar un segundo s
 ## Procedimiento para crear maquina virtual.
 1. Descargar virtual Box y Ububtu 20.04 lts.
 2. Instalar software de vitual box (sigue las instrucciones del asistente de instalación).
-![]()
+![](https://github.com/RamsesOrtiz36/Instalacion-de-virtual-box-y-ubuntu/blob/main/Instalaci%C3%B3n%20Virtual%20Box/Instalaci%C3%B3n%20de%20virtual%20box1.png)
 3. Al terminar la instalación ejecutar VirtualBox.
 4. Buscar el boton de "crear" o "nueva" y darle clic.
-![]()
+![](https://github.com/RamsesOrtiz36/Instalacion-de-virtual-box-y-ubuntu/blob/main/Instalaci%C3%B3n%20Virtual%20Box/Instalaci%C3%B3n%20de%20virtual%20box2.png)
 5. Seguir la instrucciones dandole nombre a la maquina virtual **(Ububtu 20.04 LTS)** y seleccionar el tipo de sistema opertivo **(Linux)** y version de 64 bits
-6. Seleccionar desde carpeta la ubicación de la Maquina virtual. ![]()
-7. Asignarle RAM de 4GB en multiplos de 1024 bytes ![]()
-8. Crear disco duro virtual tipo VDI ![]()
-9. Reservar dinamicamente espacio en disco de 48GB ![]()
-10. Crear Maquina virtual ![]()
+6. Seleccionar desde carpeta la ubicación de la Maquina virtual.
+7. Asignarle RAM de 4GB en multiplos de 1024 bytes ![](https://github.com/RamsesOrtiz36/Instalacion-de-virtual-box-y-ubuntu/blob/main/Instalaci%C3%B3n%20Virtual%20Box/Instalaci%C3%B3n%20de%20virtual%20box3.png)
+8. Crear disco duro virtual tipo VDI ![](https://github.com/RamsesOrtiz36/Instalacion-de-virtual-box-y-ubuntu/blob/main/Instalaci%C3%B3n%20Virtual%20Box/Instalaci%C3%B3n%20de%20virtual%20box4.png)
+![](https://github.com/RamsesOrtiz36/Instalacion-de-virtual-box-y-ubuntu/blob/main/Instalaci%C3%B3n%20Virtual%20Box/Instalaci%C3%B3n%20de%20virtual%20box5.png)
+9. Reservar dinamicamente espacio en disco de 48GB ![](https://github.com/RamsesOrtiz36/Instalacion-de-virtual-box-y-ubuntu/blob/main/Instalaci%C3%B3n%20Virtual%20Box/Instalaci%C3%B3n%20de%20virtual%20box6.png)
+10. Crear Maquina virtual.
 
 ## Configuración de Maquina virtual
 Una vez creada hay que configurarla sin iniciarla, desde la ventana de virtual box
