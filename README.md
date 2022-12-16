@@ -41,12 +41,12 @@ Una vez creada hay que configurarla sin iniciarla, desde la ventana de virtual b
 3. Sistema->Procesadores->**2 nucleos** (No seleccionar más de la mitad de la cantidad de nucleos)
 4. Pantalla->pantalla->**128 MB**
 5. Pantalla-> controlador grafico **VMSVGA** (No activar Acelerador 3D)
-6. Red-> **Conecctor puente** en caso de usar red en escuela usar **NAT**
+6. Red-> **adaptador puente** en caso de usar red en escuela usar **NAT**
 7. Tambien seleccionar la tarjeta de Red, cada cambio entre WiFi a Eternet.
 
 Posteriormente se puede cambiar la configuración de la maquina virtual para adecuarla al uso
 
-## Instalar Ububtu en Maquina vrtual.
+## Instalar Ubuntu en Maquina virtual.
 Una vez configurada se da clic en el boton de inicializar maquina virtual, es como prender la computadora.
 Solamente la primera vez que se inicializa la computadora el softwae te pedira la instalación del sistema operatvo.
 Seleccionar desde carpeta la ubicación de la imagen de disco tipo .ISO (el archivo de Ububtu 20.04 de 3.6 Gb).
