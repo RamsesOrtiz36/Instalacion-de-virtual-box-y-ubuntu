@@ -22,14 +22,16 @@ La maquina virtual del software de Virtual Box nos permite ejecutar un segundo s
 ## Procedimiento para crear maquina virtual.
 1. Descargar virtual Box y Ububtu 20.04 lts.
 2. Instalar software de vitual box (sigue las instrucciones del asistente de instalación).
+![]()
 3. Al terminar la instalación ejecutar VirtualBox.
 4. Buscar el boton de "crear" o "nueva" y darle clic.
+![]()
 5. Seguir la instrucciones dandole nombre a la maquina virtual **(Ububtu 20.04 LTS)** y seleccionar el tipo de sistema opertivo **(Linux)** y version de 64 bits
-6. Seleccionar desde carpeta la ubicación de la Maquina virtual.
-7. Asignarle RAM de 4GB en multiplos de 1024 bytes
-8. Crear disco duro virtual tipo VDI
-9. Reservar dinamicamente espacio en disco de 48GB
-10. Crear Maquina virtual
+6. Seleccionar desde carpeta la ubicación de la Maquina virtual. ![]()
+7. Asignarle RAM de 4GB en multiplos de 1024 bytes ![]()
+8. Crear disco duro virtual tipo VDI ![]()
+9. Reservar dinamicamente espacio en disco de 48GB ![]()
+10. Crear Maquina virtual ![]()
 
 ## Configuración de Maquina virtual
 Una vez creada hay que configurarla sin iniciarla, desde la ventana de virtual box
